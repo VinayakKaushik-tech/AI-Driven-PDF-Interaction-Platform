@@ -1,0 +1,2 @@
+# AI-Driven PDF Interaction Platform
+Gemini said This AI-powered document assistant transforms static PDFs into interactive conversation partners. By combining Streamlit with Google Gemini Pro, it allows users to upload multiple files and instantly extract specific insights through a simple chat interface.  The system utilizes FAISS for rapid information retrieval and LangChain to ensure responses are grounded directly in the uploaded text. It is a streamlined tool for researchers and professionals who need to query large volumes of data without manual searching.
